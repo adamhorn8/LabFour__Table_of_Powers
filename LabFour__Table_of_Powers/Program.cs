@@ -31,7 +31,7 @@ namespace LabFour__Table_of_Powers
                     Console.WriteLine("Number \t\t Squared \t Cubed");
                     Console.WriteLine("======= \t ======= \t =======");
 
-                    //Use for loop to do mathmatic equasion from 1 to Input value
+                    //Use for loop to do mathematic equation from 1 to Input value
                     for (int i = 1; i <= NumberParse; i++)
                     {
                         Console.WriteLine((i) + "\t\t" + (i*i) + "\t\t" + (i*i*i));
